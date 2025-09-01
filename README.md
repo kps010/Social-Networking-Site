@@ -1,18 +1,39 @@
-## Getting Started
+# 🌐 Social Connect (Java Swing + JDBC)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Social Connect** is a **Java-based social networking application** built using **Java Swing** for the GUI, **JDBC** for database connectivity, and **Data Structures** for efficient in-memory operations.
 
-## Folder Structure
+It provides a platform where users can **register, login, create posts, like/comment on posts, follow other users, and receive notifications** — simulating the core features of a real-world social media system.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### 👤 User
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Register and login with credentials
+- Manage profile (username, bio, phone number, profile picture)
+- Follow/unfollow other users
+- Receive notifications
 
-## Dependency Management
+### 📝 Post & Interaction
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Create and share posts (text & photos)
+- Like and comment on posts
+- Save posts for later
+- View post history
+
+### 🔔 Notifications
+
+- Real-time updates on likes, comments, and follows
+
+---
+
+## ⚙️ Technologies Used
+
+- **Java Swing** – Graphical User Interface
+- **JDBC** – Database Connectivity
+- **MySQL / PostgreSQL** – Database
+- **Data Structures** – Arrays, Lists, HashMaps for posts, likes, and comments
+- **OOP Concepts** – Encapsulation, Inheritance, Polymorphism
+
+---
